@@ -120,27 +120,4 @@ Identify departments or roles with higher termination rates.
 
 Promote diversity and inclusion across the organization.
 
-How to Use This Repository
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/UtsabSarkar03/hr-data-analysis.git
 
-Set Up Database:
-
-Import the dataset into your SQL database.
-
-Use the provided SQL scripts for data cleaning and analysis.
-
-Run Queries:
-
-Execute the SQL queries provided in the queries.sql file to replicate the analysis.
-
-Extend Analysis:
-
-Modify or extend the queries to explore additional insights.
-
-License
-This project is licensed under the MIT License.
-
-Feel free to use and adapt this repository for your own projects. If you find it useful, please give it a ⭐ on GitHub!
